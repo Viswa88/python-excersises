@@ -1,2 +1,2 @@
 # python-excersises
-Python development exercises 
+This Repo only for Python excersises 
